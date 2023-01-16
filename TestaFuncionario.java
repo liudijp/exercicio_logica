@@ -3,8 +3,6 @@ package POO;
 import java.util.Scanner;
 
 public class TestaFuncionario {
-    public TestaFuncionario() {
-    }
 
     public static void main(String[] args) {
         int idade = 0;
